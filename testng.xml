@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Resources/projects/projectOne/src/test/java/com/kelena/app/RestDynJsonsTests.java"><classes><class name="com.kelena.app.RestDynJsonsTests"><methods><include name="testAddBook"/><include name="testAddBookDataProvider"/><include name="testAddBookFile"/></methods></class></classes></test></suite>
